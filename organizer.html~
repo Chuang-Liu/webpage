@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="./css/style.css" />
+        <title>IEEE MASN 2015</title>
+    </head>
+    <body>
+        <div class="container">
+		<br>
+		<div class="row clearfix">
+			<div class="col-md-12 column" align="center">
+				<img src="./pic/top.jpg">
+			</div>
+		</div>
+		<br>
+		<hr>
+		<br>
+
+		<div class="col-md-3 column">
+			<ul>
+				<li><a href="./index.html">Home</a></li>
+				<li><a href="./cfp.html">Call For Papers</a></li>
+				<li><a href="./organizer.html">Organizing Committee</a></li>
+				<li><a href="./committee.html">Program Committee</a></li>
+				<li><a href="./workshop.html">Keynote Speaker</a></li>
+				<li><a href="./workshop.html">Special Issues</a></li>
+				<li><a href="./submission.html">Submission</a></li>
+				<li><a href="./submission.html">Final Paper Submission</a></li>
+				<li><a href="./workshop.html">Conference Program</a></li>
+				<li><a href="./registration.html">Registration</a></li>
+				<li><a href="./workshop.html">Accommodation</a></li>
+				<li><a href="./workshop.html">Contact Us</a></li>
+			</ul>
+		</div>
+
+
+		<div class="col-md-9 column">
+			<h3>Organizing Committee</h3>
+			<hr>
+			<h4>Steering committee Co-Chairs</h4>
+			<a href="http://www.cs.cityu.edu.hk/~jia/">Xiaohua Jia</a>
+			<p>City University of Hong Kong</p>
+			<a href="http://www4.comp.polyu.edu.hk/~csjcao/">Jiannong Cao</a>
+			<p>Hong Kong Polytechnic University</p>
+
+			<h4>General Co-Chairs</h4>
+			<a href="http://www.hitsz.edu.cn/body/shizi/detailen.php?strID=240">Hejiao Huang</a>
+			<p>Harbin Institute of Technology Shenzhen Graduate School, China</p>
+			<p>Jianzhong Li</p>
+			<p>Harbin Institute of Technology, China</p>
+
+			<h4>TPC Co-Chairs</h4>
+			<a href="http://www.hitsz.edu.cn/body/shizi/detailcn.php?strID=604">Hongwei Du</a>
+			<p>Harbin Institute of Technology Shenzhen Graduate School, China</p>
+			<a href="http://www.acsu.buffalo.edu/~kuiren/">Kui Ren</a>
+			<p>University at Buffalo, USA</p>
+
+			<h4>Web Chair</h4>
+			<p>Chuang Liu</p>
+			<p>Shi Chen</p>
+		</div>
+
+		<br>
+		<hr style="width:100%; height: 10px">
+		<br>
+        </div>
+    </body>
+</html>
